@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"Input",
+				"Input-all	Input-all"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"i",
+				"if	<?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"Route",
+				"Route-get	Route-get"
+			],
+			[
+				"View-",
+				"View-make	View-make"
+			],
+			[
+				"DB",
+				"DB-table	DB-table"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"insert",
+				"dba_insert"
+			],
+			[
+				"timesta",
+				"date_timestamp_get"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"Schema",
+				"Schema-create	Schema-create"
+			],
+			[
+				"load",
+				"load_view	CI - Load View"
+			],
+			[
+				"id",
+				"ids"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"wp",
+				"wpsamplepage	wpsamplepage"
+			],
+			[
+				"onC",
+				"onclick	Attr"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"me",
+				"meta-viewport	meta-viewport"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"toA",
+				"toArray"
+			],
+			[
+				"Tweet",
+				"TweetsView"
+			],
+			[
+				"twee",
+				"tweet-template"
+			],
+			[
+				"el",
+				"el	$el"
+			],
+			[
+				"twe",
+				"tweet-template"
+			],
+			[
+				"author",
+				"Author"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			],
+			[
+				"new",
+				"new-tweet"
+			],
+			[
+				"stat",
+				"status-update"
+			],
+			[
+				"auho",
+				"author-name"
+			],
+			[
+				"tw",
+				"tweet3"
+			],
+			[
+				"tweet",
+				"TweetList"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"Coll",
+				"collection"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"ba",
+				"backbone-js	backbone-js"
+			],
+			[
+				"gf",
+				"gf-ubuntu-style	ubuntu-style"
+			],
+			[
+				"bac",
+				"Backbone"
+			],
+			[
+				"gf-ub",
+				"gf-ubuntu-style	ubuntu-style"
+			],
+			[
+				"bootst",
+				"bootstrap-css	bootstrap-css"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"get_hee",
+				"get_header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"stac",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"pac",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"php",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/webroot/laravel",
+		"/C/webroot/laravel/app",
+		"/C/webroot/laravel/app/controllers",
+		"/C/webroot/laravel/app/views",
+		"/C/webroot/laravel/app/views/authors"
+	],
+	"file_history":
+	[
+		"/C/webroot/laravel/app/views/authors/view.blade.php",
+		"/C/webroot/laravel/app/views/authors/edit.blade.php",
+		"/C/webroot/laravel/app/views/layouts/default.blade.php",
+		"/C/webroot/laravel/app/controllers/AuthorsController.php",
+		"/C/webroot/laravel/app/routes.php",
+		"/C/Users/C2D/Desktop/laravel lesson.txt",
+		"/C/webroot/laravel/app/views/authors/new_author.blade.php",
+		"/C/webroot/laravel/app/models/author.php",
+		"/C/webroot/laravel/app/views/authors/index.blade.php",
+		"/C/webroot/laravel/app/views/common/author_errors.blade.php",
+		"/C/webroot/laravel/vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php",
+		"/C/webroot/laravel/app/views/authors/new.blade.php",
+		"/C/webroot/laravel/artisan",
+		"/C/webroot/laravel/app/config/app.php",
+		"/C/webroot/laravel/app/config/local/app.php",
+		"/C/Android/workspace/Test/src/com/example/test/MainActivity.java",
+		"/C/webroot/laravel/app/views/authors/index.php",
+		"/C/Users/C2D/Desktop/laravel lesson",
+		"/C/webroot/laravel/app/database/migrations/2014_10_23_144420_add_authors.php",
+		"/C/webroot/laravel/app/views/hello.php",
+		"/C/webroot/laravel/app/views/emails/auth/reminder.blade.php",
+		"/C/Users/C2D/Desktop/Condition Zero/Key/PC31.reg",
+		"/C/webroot/laravel/app/database/migrations/2014_10_23_143202_create_authors_table.php",
+		"/C/webroot/laravel/app/controllers/HomeController.php",
+		"/C/webroot/laravel/app/storage/logs/laravel.log",
+		"/C/webroot/laravel/app/controllers/BaseController.php",
+		"/C/webroot/laravel/app/config/database.php",
+		"/C/webroot/laravel/public/index.php",
+		"/C/webroot/laravel/laravel/app/config/app.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/C2D/Downloads/Android",
+		"//RASUHA-PC/shared/generateno.php",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/PHP/php-debug.sublime-snippet",
+		"/C/Users/C2D/Google Drive/Android Project/WEBSITE/C2DJQM/index.php",
+		"/C/webroot/api/v2/application/controllers/rahman.php",
+		"/C/webroot/api/v2/application/views/rahman/rahman.php",
+		"/C/webroot/api/v2/.htaccess",
+		"/C/webroot/api/v2/application/controllers/welcome.php",
+		"/C/Bckup/IO/D/01-Apr-14.sql",
+		"/C/EG/Car Rental System/Car Rental System/MainForm.Designer.vb",
+		"/C/share/search.html",
+		"/C/Users/C2D/Desktop/Decoy/Charles.chls",
+		"/C/Users/C2D/Desktop/Decoy/android_one_man.chls",
+		"/C/Users/C2D/Downloads/tsyslog (1).rg",
+		"/C/Users/C2D/Downloads/tsyslog.rg",
+		"/C/Users/C2D/Google Drive/MotoFail/00-1F-FB-07-C3-54_key",
+		"/C/Users/C2D/Google Drive/MotoFail/34-08-04-89-56-AC_key",
+		"/C/Users/C2D/Google Drive/MotoFail/00-1F-FB-08-6D-7E_key",
+		"/D/C/Jaring/JAVA R&D/CustSupport/custdetails.java",
+		"/D/C/Jaring/JAVA R&D/Attendance/attendance.class",
+		"/D/C/Jaring/JAVA R&D/Attendance/attendance.ctxt",
+		"/D/C/Jaring/JAVA R&D/Attendance/attendance.java",
+		"/D/C/Jaring/JAVA R&D/BerkenaanNgan IO/DataFileTest.java",
+		"/C/Users/C2D/Desktop/doc.html",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/person.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/hello.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/webroot/index.php",
+		"/C/webroot/GCM.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/api.php",
+		"/C/Kali Linux/IncreaseWifiTx",
+		"/C/Users/C2D/workspace/SLIMApiTest/project.properties",
+		"/C/Users/C2D/workspace/SLIMApiTest/proguard-project.txt",
+		"/C/Users/C2D/workspace/SLIMApiTest/AndroidManifest.xml",
+		"/C/Users/C2D/workspace/SLIMApiTest/.classpath",
+		"/C/Users/C2D/workspace/SLIMApiTest/.project",
+		"/C/Users/C2D/workspace/MyMasjid/.project",
+		"/C/Users/C2D/Desktop/00-1F-FB-07-C3-54_key",
+		"/C/webroot/shoe4styles/Kids adidas.php",
+		"/C/webroot/shoe4styles/view_prod.php",
+		"/C/webroot/shoe4styles/addtocart.php",
+		"/C/webroot/shoe4styles/register.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/cuepacs.html",
+		"/C/Users/C2D/Desktop/cuepacs.html",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/a.html",
+		"/C/webroot/example/includes/config.php",
+		"/C/webroot/example/example.php",
+		"/C/webroot/example/includes/contact.php",
+		"/C/webroot/java/index.jsp",
+		"/C/webroot/x_file/Welcome.php",
+		"/C/webroot/x_file/User Entry.php",
+		"/C/webroot/x_file/Registration_Admin.php",
+		"/C/webroot/x_file/logout.php",
+		"/C/webroot/x_file/Login.php",
+		"/C/webroot/x_file/Data_Entry.php",
+		"/C/webroot/x_file/x_file.sql",
+		"/C/webroot/x_file/config.php",
+		"/C/Users/C2D/Desktop/ShoppingCartMobile-master/www/js/shopping-cart.js",
+		"/C/webroot/shoe4styles/MENAdidas.php",
+		"/C/webroot/shoe4styles/WomenAdidas.php",
+		"/C/webroot/shoe4styles/KidsNike.php",
+		"/C/webroot/shoe4styles/MEN.php",
+		"/C/webroot/shoe4styles/WOMEN.php",
+		"/C/Users/C2D/Desktop/backbone.html",
+		"/C/Users/C2D/Desktop/page.php",
+		"/C/Users/C2D/Desktop/style.css",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/tttt.html",
+		"/C/Users/C2D/Desktop/tttt.html",
+		"/C/Users/C2D/Desktop/www/data/ProductCategories_data.json",
+		"/C/Users/C2D/Desktop/www/data/CLASSIC_data.json",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/paypal.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/archive-directorybiz.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/shopping-cart.js",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/single-directory.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/archive-directory.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/directory.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/view_dir.php",
+		"/C/Users/C2D/Google Drive/Android Project/WEBSITE/C2DJQM/custom-template.php",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/custom-template.php",
+		"/C/Users/C2D/Google Drive/Android Project/JKM/page.php",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/Wordpress/wpsamplepage.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/Header/wptemplate.sublime-snippet",
+		"/C/Users/C2D/Google Drive/Android Project/WEBSITE/IKS/C2DJQMobileECom/index.php",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/CDN/underscore-js.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/CDN/backbone-js.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/CDN/jquery-js.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/Google Font/ubuntu-style.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/Google Font/ubuntu.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/CDN/bootstrap-css.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/CDN/bootstrap-js.sublime-snippet",
+		"/C/Users/C2D/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/CDN/bootstrap.sublime-snippet",
+		"/C/Users/C2D/AppData/Local/Temp/fz3temp-1/ALATAN_DAPUR_data.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p",
+			"@",
+			"Azmi",
+			"h3",
+			"h2",
+			"h1",
+			"yourtaxonomyhere",
+			"v",
+			"tweet-template",
+			"container",
+			"tweet-container",
+			"(",
+			"status-update",
+			"author-name",
+			"new-tweet",
+			"author-name",
+			"auhor",
+			"basket-btn-tmpl",
+			"submit-btn",
+			"total-price-tmpl",
+			"order-items",
+			"Submit",
+			"basket",
+			"my_form",
+			"aa",
+			"get_template_directory_uri",
+			"width",
+			"buy-item-btn",
+			"basketItems",
+			"buy-item-btn",
+			"showItemPopup",
+			"buyItemBtn",
+			"Purchase",
+			"album",
+			"get",
+			"buyItem",
+			"basket",
+			"Router",
+			"&euro;",
+			"Artist",
+			"Baju Kurung",
+			"CLASSIC",
+			"CAR",
+			"ELECTRONIC",
+			"HOME APPLIANCE",
+			"PET",
+			"get_stylesheet_directory_uri",
+			"img",
+			"<?php get_stylesheet_directory(); ?>/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "learn.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,20 @@
+<?php $__env->startSection('content'); ?>
+	<h1>Editing <?php echo $author->name; ?></h1>
+	<?php echo $__env->make('common.author_errors', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+	<?php echo Form::open(array('action'=>'update','method' => 'PUT')); ?>
+
+	<p>
+		<?php echo Form::label("name", "Name"); ?><br>
+		<?php echo Form::text("name", $author->name); ?><br>
+	</p>
+	<p>
+		<?php echo Form::label("bio", "Biography"); ?><br>
+		<?php echo Form::textarea("bio", $author->bio); ?><br>
+	</p>
+
+	<?php echo Form::hidden('id',$author->id); ?>
+
+	<p><?php echo Form::submit('Update Author'); ?></p>
+	<p><?php echo Form::close(); ?></p>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.default', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

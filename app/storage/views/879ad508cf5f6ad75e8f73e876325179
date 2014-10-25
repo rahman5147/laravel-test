@@ -1,0 +1,8 @@
+<?php if($errors->has()): ?>
+	<ul>
+		<?php echo $errors->first('name','<li>:message</li>'); ?>
+
+		<?php echo $errors->first('bio','<li>:message</li>'); ?>
+
+	</ul>
+<?php endif; ?>

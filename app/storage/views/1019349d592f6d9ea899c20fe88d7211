@@ -1,0 +1,18 @@
+<?php $__env->startSection('content'); ?>
+	<h1><?php echo $author->name; ?></h1>
+	<p><?php echo $author->bio; ?></p>
+	<p><small><?php echo $author->updated_at; ?></small></p>
+	<span>
+		<?php echo HTML::linkRoute('authors', "Authors"); ?> |
+		<?php echo HTML::linkRoute('edit', "Edit Author", array($author->id)); ?> |
+		<?php echo Form::open(array("url"=>'author/delete','method' => 'DELETE','style'=>'display:inline;color:red;')); ?>
+
+		<?php echo Form::hidden('id', $author->id); ?>
+
+		<?php echo Form::submit("Delete"); ?>
+
+		<?php echo Form::close(); ?>
+
+	</span>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.default', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
